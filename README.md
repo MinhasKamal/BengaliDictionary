@@ -2,7 +2,10 @@
 #### A Large Collection of Bengali Words & Translations
 
 ### Description
+
 BengaliWordList\_48.txt, BengaliWordList\_112.txt, & BengaliWordList\_439.txt contains more than 48000, 112000, & 439000 Bengali words respectively. These lists can be used for spell checking and many more other purposes. The file is encoded in UTF-8 & words are separated with new line. Shorter list contains words only of higher frequancy.
+
+BengaliDictionary\_17.rar, BengaliDictionary\_36.rar, & BengaliDictionary\_93.rar contains 17000, 36000, & 93000 English to Bengali translations. Files are encoded in UTF-8, and each translation is seperated with new line.
 
 <div align="center">
   <img src="https://cloud.githubusercontent.com/assets/5456665/19994067/c1d80750-a274-11e6-8160-2af151f5e966.png" height="400" width=auto title="bengali word list preview" />
