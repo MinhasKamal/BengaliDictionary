@@ -1,3 +1,9 @@
+/***********************************************************
+* Developer: Minhas Kamal (minhaskamal024@gmail.com)       *
+* Website: github.com/MinhasKamal/BengaliDictionary        *
+* Comment: Simple dictionary implementation.               *
+***********************************************************/
+
 import java.io.BufferedReader;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
