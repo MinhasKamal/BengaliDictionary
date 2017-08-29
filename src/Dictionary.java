@@ -1,7 +1,6 @@
 /***********************************************************
 * Developer: Minhas Kamal (minhaskamal024@gmail.com)       *
 * Website: github.com/MinhasKamal/BengaliDictionary        *
-* Comment: Simple dictionary implementation.               *
 ***********************************************************/
 
 import java.io.BufferedReader;
@@ -19,7 +18,6 @@ public class Dictionary {
 		String line = mainBR.readLine();
 		while(line != null){
 			int seperator = line.indexOf('|', 1);
-			//System.out.println(">"+line.substring(1, seperator)+":"+line.substring(seperator+1)); //test
 			map.put(line.substring(1, seperator), line.substring(seperator+1));
 			line = mainBR.readLine();
 		}
