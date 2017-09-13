@@ -40,7 +40,7 @@ public class SpellChecker {
 		
 		int i=0;
 		String string = mainBR.readLine();
-		while(string!=null){	//reading step by step
+		while(string!=null){
 			
 			dictionary.put(string, i);
 			
@@ -134,5 +134,7 @@ public class SpellChecker {
 		for(int i=0; i<correctStrings.size(); i++){
 			System.out.print(correctStrings.get(i)+" ");
 		}System.out.println();
+		
+		System.out.println(spellChecker.checkSpellOfAWord("#দী"));
 	}
 }
