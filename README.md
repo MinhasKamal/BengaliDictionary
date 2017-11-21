@@ -1,7 +1,7 @@
 # Bengali Dictionary
 #### A Large Collection of Bengali Words & Translations
 
-This repository contains open datasets of Bengali word list, English to Bengali translations, and all Bengali single and combined characters. These datasets can be used for spell checking, spell correction, dictionary, typing suggestions, and many more other purposes. All the files are encoded in UTF-8.
+This repository contains open datasets of Bengali word list and English to Bengali translations. These datasets can be used for spell checking, spell correction, dictionary, typing suggestion, and many more other purposes.
 
 There is also a simple Java implementation of [Bengali Spell Checker](https://github.com/MinhasKamal/BengaliDictionary/blob/master/src/SpellChecker.java) and [English to Bengali Dictionary](https://github.com/MinhasKamal/BengaliDictionary/blob/master/src/Dictionary.java).
  
@@ -39,8 +39,20 @@ There is also a simple Java implementation of [Bengali Spell Checker](https://gi
 <td><img src="https://user-images.githubusercontent.com/5456665/33063005-493e5310-cecb-11e7-9b9c-98493751eb3c.PNG" height="100" width=auto title="bengali word translation preview" /></td>
 </tr>
 <tr>
+<td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliDictionary_82.rar">BengaliDictionary_82.rar</a></td>
+<td><img src="https://user-images.githubusercontent.com/5456665/33064807-2b64645a-ced1-11e7-9461-fe28bccf99fb.PNG" height="100" width=auto title="bengali word translation preview" /></td>
+</tr>
+<tr>
 <td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliDictionary_93.rar">BengaliDictionary_93.rar</a></td>
 <td><img src="https://user-images.githubusercontent.com/5456665/33063004-48ded7b4-cecb-11e7-9490-53a4dbb5387d.PNG" height="100" width=auto title="bengali word translation preview" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliDictionary_93..rar">BengaliDictionary_93..rar</a></td>
+<td><img src="https://user-images.githubusercontent.com/5456665/33064811-2c2b0a10-ced1-11e7-9487-da522e899b53.PNG" height="100" width=auto title="bengali word translation preview" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliDictionary.rar">BengaliDictionary.rar</a></td>
+<td><img src="https://user-images.githubusercontent.com/5456665/33064812-2c868750-ced1-11e7-85d4-0b2e39e342d8.PNG" height="100" width=auto title="bengali word translation preview" /></td>
 </tr>
 </table>
 
