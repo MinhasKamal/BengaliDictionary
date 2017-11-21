@@ -7,28 +7,54 @@ There is also a simple Java implementation of [Bengali Spell Checker](https://gi
  
 ### Downloads
 ##### Word List
-  - [BengaliWordList\_40.rar](https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliWordList_40.rar)
-  <div align="center"><img src="https://user-images.githubusercontent.com/5456665/33063156-d9310fd0-cecb-11e7-9c8e-ae8af8f1890a.PNG" height="100" width=auto title="bengali word translation preview" /></div>
-  - [BengaliWordList\_48.rar](https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliWordList_48.rar)
-  <div align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/20518189/6de784c4-b0c8-11e6-900b-34d5338088be.png" height="100" width=auto title="bengali word translation preview" /></div>
-  - [BengaliWordList\_112.rar](https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliWordList_112.rar)
-  <div align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/20518189/6de784c4-b0c8-11e6-900b-34d5338088be.png" height="100" width=auto title="bengali word translation preview" /></div>
-  - [BengaliWordList\_439.rar](https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliWordList_439.rar)
-  <div align="center"><img src="https://cloud.githubusercontent.com/assets/5456665/20518189/6de784c4-b0c8-11e6-900b-34d5338088be.png" height="100" width=auto title="bengali word translation preview" /></div>
+
+<table>
+<tr>
+<td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliWordList_40.rar">BengaliWordList_40.rar</a></td>
+<td><img src="https://user-images.githubusercontent.com/5456665/33063156-d9310fd0-cecb-11e7-9c8e-ae8af8f1890a.PNG" height="100" width=auto title="bengali word translation preview" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliWordList_48.rar">BengaliWordList_48.rar</a></td>
+<td><img src="https://user-images.githubusercontent.com/5456665/33063466-c6c78b52-cecc-11e7-857b-e761b154370d.PNG" height="100" width=auto title="preview" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliWordList_112.rar">BengaliWordList_112.rar</a></td>
+<td><img src="https://user-images.githubusercontent.com/5456665/33063468-c72e0e9a-cecc-11e7-8d13-4dda7d743aff.PNG" height="100" width=auto title="preview" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliWordList_439.rar">BengaliWordList_439.rar</a></td>
+<td><img src="https://user-images.githubusercontent.com/5456665/33063465-c58b7348-cecc-11e7-893d-55c8b86cdd71.PNG" height="100" width=auto title="preview" /></td>
+</tr>
+</table>
 
 ##### Word Translation
-  - [BengaliDictionary\_17.rar](https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliDictionary_17.rar)
-  <div align="center"><img src="https://user-images.githubusercontent.com/5456665/33063001-47e5a054-cecb-11e7-83f9-d80cce19e47c.PNG" height="100" width=auto title="bengali word translation preview" /></div>
-  - [BengaliDictionary\_36.rar](https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliDictionary_36.rar)
-  <div align="center"><img src="https://user-images.githubusercontent.com/5456665/33063001-47e5a054-cecb-11e7-83f9-d80cce19e47c.PNG" height="100" width=auto title="bengali word translation preview" /></div>
-  - [BengaliDictionary\_93.rar](https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliDictionary_93.rar)
-  <div align="center"><img src="https://user-images.githubusercontent.com/5456665/33063004-48ded7b4-cecb-11e7-9490-53a4dbb5387d.PNG" height="100" width=auto title="bengali word translation preview" /></div>
+
+<table>
+<tr>
+<td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliDictionary_17.rar">BengaliDictionary_17.rar</a></td>
+<td><img src="https://user-images.githubusercontent.com/5456665/33063001-47e5a054-cecb-11e7-83f9-d80cce19e47c.PNG" height="100" width=auto title="bengali word translation preview" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliDictionary_36.rar">BengaliDictionary_36.rar</a></td>
+<td><img src="https://user-images.githubusercontent.com/5456665/33063005-493e5310-cecb-11e7-9b9c-98493751eb3c.PNG" height="100" width=auto title="bengali word translation preview" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliDictionary_93.rar">BengaliDictionary_93.rar</a></td>
+<td><img src="https://user-images.githubusercontent.com/5456665/33063004-48ded7b4-cecb-11e7-9490-53a4dbb5387d.PNG" height="100" width=auto title="bengali word translation preview" /></td>
+</tr>
+</table>
 
 ##### Other Resources
-  - [BengaliCharacterCombinations.rar](https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliCharacterCombinations.rar)
-  <div align="center"><img src="https://user-images.githubusercontent.com/5456665/33063000-472d62b4-cecb-11e7-94c9-d417e5fb298e.PNG" height="100" width=auto title="bengali word translation preview" /></div>
-  - [BengaliPhoneticWordFrequency\_164.rar](https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliPhoneticWordFrequency_164.rar)
-  <div align="center"><img src="https://user-images.githubusercontent.com/5456665/33063157-d98c29ec-cecb-11e7-9923-155939fb3c82.PNG" height="100" width=auto title="bengali word translation preview" /></div>
+<table>
+<tr>
+<td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliCharacterCombinations.rar">BengaliCharacterCombinations.rar</a></td>
+<td><img src="https://user-images.githubusercontent.com/5456665/33063000-472d62b4-cecb-11e7-94c9-d417e5fb298e.PNG" height="100" width=auto title="bengali word translation preview" /></td>
+</tr>
+<tr>
+<td><a href="https://github.com/MinhasKamal/BengaliDictionary/raw/download/BengaliPhoneticWordFrequency_164.rar">BengaliPhoneticWordFrequency_164.rar</a></td>
+<td><img src="https://user-images.githubusercontent.com/5456665/33063157-d98c29ec-cecb-11e7-9923-155939fb3c82.PNG" height="100" width=auto title="bengali word translation preview" /></td>
+</tr>
+</table>
 
 ### License
 <a rel="license" href="http://www.gnu.org/licenses/gpl.html"><img alt="GNU General Public License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-88x31.png" /></a><br/>BengaliDictionary is licensed under a <a rel="license" href="http://www.gnu.org/licenses/gpl.html">GNU General Public License version-3</a>.
