@@ -1,5 +1,7 @@
 /***********************************************************
 * Developer: Minhas Kamal (minhaskamal024@gmail.com)       *
+* Date: 04-Aug-2016                                        *
+* License: MIT License                                     *
 * Website: github.com/MinhasKamal/BengaliDictionary        *
 ***********************************************************/
 
@@ -21,6 +23,7 @@ public class Dictionary {
 			map.put(line.substring(1, seperator), line.substring(seperator+1));
 			line = mainBR.readLine();
 		}
+
 		mainBR.close();
 	}
 	
